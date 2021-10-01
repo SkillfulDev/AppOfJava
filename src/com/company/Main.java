@@ -7,5 +7,7 @@ public class Main {
     {
 	    //sysytem.out.println("Hello");
         System.out.println("Hello");
+        System.out.println();
+
     }
 }
